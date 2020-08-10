@@ -1,7 +1,4 @@
-*:not(.plyr) {
-    color: white;
-    user-select: none;
-}
+
 
 body {
     margin: 0;
@@ -9,7 +6,7 @@ body {
     height: 100vh;
     margin: 0 auto;
     position: relative;
-    background-image: url(https://source.unsplash.com/daily?water);
+    background-image: url(https://source.unsplash.com/daily);
     background-size: cover;
     background-position: center;
     overflow: hidden;
